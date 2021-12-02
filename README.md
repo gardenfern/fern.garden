@@ -3,4 +3,6 @@
 
 Personal homepage hosted at https://fern.garden
 
+No JS!
+
 [license-badge]: https://img.shields.io/github/license/gardenfern/fern.garden?style=flat-square
