@@ -1,20 +1,20 @@
 @font-face {
 	font-family: monfem;
-	src: url(fonts/monfem.ttf);
+	src: url(../fonts/monfem.ttf);
 }
 
 @font-face {
 	font-family: raleway;
-	src: url(fonts/raleway.ttf);
+	src: url(../fonts/raleway.ttf);
 }
 
 @font-face {
 	font-family: fa;
-	src: url(fonts/fa.ttf);
+	src: url(../fonts/fa.ttf);
 }
 
 body {
-	background: #1c1f0c url(images/ferns.webp) no-repeat center center fixed; /* image sourced from @sebastians at pexels.com */
+	background: #1c1f0c url(../images/ferns.webp) no-repeat center center fixed; /* image sourced from @sebastians at pexels.com */
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
