@@ -55,3 +55,8 @@ a {
 	color: white;
 	text-decoration: none;
 }
+
+a:hover {
+	color: #98971a;
+	transition:color 0.5s;
+}
