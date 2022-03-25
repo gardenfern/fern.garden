@@ -9,8 +9,8 @@
 }
 
 @font-face {
-	font-family: fa;
-	src: url(../fonts/fa.ttf);
+	font-family: fa-brands;
+	src: url(../fonts/fa-brands.ttf);
 }
 
 body {
@@ -19,6 +19,7 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+  color: #e8e3e3;
 }
 
 .center {
@@ -32,31 +33,28 @@ body {
 .name {
 	font-family: 'monfem';
 	font-size: 160px;
-	color: white;
 	margin: -20px;
 }
 
 .pronouns {
 	font-family: 'raleway';
 	font-size: 24px;
-	color: white;
 	margin: 0px;
 }
 
 .socials {
-	font-family: 'fa';
+	font-family: 'fa-brands';
 	margin-left: 12px;
 	margin-right: 12px;
 	font-size: 36px;
-	color: white;
 }
 
 a {
-	color: white;
 	text-decoration: none;
+  color: #e8e3e3;
 }
 
 a:hover {
-	color: #98971a;
-	transition:color 0.5s;
+	color: #8c977d;
+	transition:color 0.2s;
 }

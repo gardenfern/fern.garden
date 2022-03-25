@@ -3,8 +3,14 @@
 	src: url(../fonts/raleway.ttf);
 }
 
+@font-face {
+	font-family: fa-solid;
+	src: url(../fonts/fa-solid.ttf);
+}
+
 body {
-	background: #1c1f0c;
+	background: #151515;
+  color: #e8e3e3
 }
 
 .center {
@@ -15,9 +21,13 @@ body {
 	text-align: center;
 }
 
+.error {
+	font-family: 'fa-solid';
+	font-size: 64px;
+}
+
 .fourohfour {
 	font-family: 'raleway';
 	font-size: 48px;
-	color: white;
 	margin: 0px;
 }
