@@ -21,12 +21,12 @@ body {
 	text-align: center;
 }
 
-.error {
+.icon {
 	font-family: 'fa-solid';
 	font-size: 64px;
 }
 
-.fourohfour {
+.message {
 	font-family: 'raleway';
 	font-size: 48px;
 	margin: 0px;
