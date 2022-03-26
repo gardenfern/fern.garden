@@ -13,8 +13,13 @@
 	src: url(../fonts/fa-brands.ttf);
 }
 
+@font-face {
+  font-family: fa-solid;
+  src: url(../fonts/fa-solid.ttf);
+}
+
 body {
-	background: #1c1f0c url(../images/ferns.webp) no-repeat center center fixed; /* image sourced from @sebastians at pexels.com */
+	background: #1c1f0c url(../images/ferns.webp) no-repeat center center fixed; /* image uploaded by @sebastians at pexels.com */
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -43,7 +48,7 @@ body {
 }
 
 .socials {
-	font-family: 'fa-brands';
+	font-family: 'fa-brands', 'fa-solid';
 	margin-left: 12px;
 	margin-right: 12px;
 	font-size: 36px;
