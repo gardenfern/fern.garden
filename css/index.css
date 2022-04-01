@@ -48,10 +48,14 @@ body {
 }
 
 .socials {
-	font-family: 'fa-brands', 'fa-solid';
 	margin-left: 12px;
 	margin-right: 12px;
-	font-size: 36px;
+}
+
+.socials img {
+  width: 36px;
+  height: 36px;
+  filter: invert(100%);
 }
 
 a {
