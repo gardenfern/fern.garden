@@ -1,13 +1,3 @@
-@font-face {
-	font-family: raleway;
-	src: url(../fonts/raleway.ttf);
-}
-
-@font-face {
-	font-family: fa-solid;
-	src: url(../fonts/fa-solid.ttf);
-}
-
 body {
 	background: #151515;
   color: #e8e3e3
@@ -21,13 +11,6 @@ body {
 	text-align: center;
 }
 
-.icon {
-	font-family: 'fa-solid';
-	font-size: 64px;
-}
-
 .message {
-	font-family: 'raleway';
 	font-size: 48px;
-	margin: 0px;
 }
